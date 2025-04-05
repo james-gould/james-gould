@@ -18,7 +18,7 @@ A few past and current projects/work include:
  
 ## 💖 Personal life
 
-- I'm a lifelong Honda enthusiast, currently driving a 2018 Civic Type R FK8 in Polished Metal Metallic.
+- I'm a lifelong Honda enthusiast, currently driving a Civic Type R FK8 in Polished Metal Metallic.
 - I've got 3 British Shorthair cats that live with my partner and I.
 - I've got ADHD! 
  
