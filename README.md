@@ -5,7 +5,7 @@ I'm a Principal .NET Engineer working in financial services with a focus on brow
 A few past and current projects/work include:
 
 - [Azure Key Vault Emulator](https://github.com/james-gould/azure-keyvault-emulator)
-- [Personal blog focusing on .NET development)(https://jamesgould.dev)
+- [Personal blog focusing on .NET development](https://jamesgould.dev)
 - 99RON, a simple web tool helping you find premium fuel in the UK; currently under development.
 
 ## 🏆 Some notable achievements
