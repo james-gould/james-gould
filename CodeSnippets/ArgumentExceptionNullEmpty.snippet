@@ -2,14 +2,14 @@
 <CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
   <CodeSnippet Format="1.0.0">
     <Header>
-      <Title>ArgumentExceptionNullWhitespace</Title>
+      <Title>ArgumentExceptionNullEmpty</Title>
       <Shortcut>ar</Shortcut>
       <Author>James Gould</Author>
       <Description>Creates an ArgumentException guard, prompting for the variable name.</Description>
     </Header>
     <Snippet>
       <Code Language="CSharp">
-        <![CDATA[ArgumentException.ThrowIfNullOrWhitespace($Name$);$end$]]></Code>
+        <![CDATA[ArgumentException.ThrowIfNullOrEmpty($Name$);$end$]]></Code>
       <Declarations>
         <Literal>
             <ID>Name</ID>
@@ -17,11 +17,6 @@
             <Default></Default>
         </Literal>
       </Declarations>
-      <Imports>
-        <Import>
-          <Namespace></Namespace>
-        </Import>
-      </Imports>
     </Snippet>
   </CodeSnippet>
 </CodeSnippets>
