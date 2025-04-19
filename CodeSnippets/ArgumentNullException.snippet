@@ -2,27 +2,27 @@
 <CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
   <CodeSnippet Format="1.0.0">
     <Header>
-      <Title>JsonPropertyName</Title>
-      <Shortcut>jp</Shortcut>
+      <Title>ArgumentNullException Guard</Title>
+      <Shortcut>an</Shortcut>
       <Author>James Gould</Author>
-      <Description>Autofills the [JsonPropertyName("")] attribute, prompting for the JSON property name before completing.</Description>
+      <Description>Creates an ArgumentNullException guard, prompting for the variable name.</Description>
     </Header>
     <Snippet>
       <Code Language="CSharp">
         <![CDATA[
-          [JsonPropertyName("$Name$")]
+          ArgumentNullException.ThrowIfNull($Name$);
         $end$]]>
       </Code>
       <Declarations>
         <Literal>
             <ID>Name</ID>
-            <ToolTip>Enter the JSON name</ToolTip>
+            <ToolTip>Enter the variable name</ToolTip>
             <Default></Default>
         </Literal>
       </Declarations>
       <Imports>
         <Import>
-          <Namespace>System.Text.Json.Serialization</Namespace>
+          <Namespace></Namespace>
         </Import>
       </Imports>
     </Snippet>
