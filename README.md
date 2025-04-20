@@ -8,6 +8,8 @@ A few past and current projects/work include:
 - [Personal blog focusing on .NET development](https://jamesgould.dev)
 - 99RON, a simple web tool helping you find premium fuel in the UK; currently under development.
 
+This repository also serves as a store for my [Visual Studio Snippets](https://github.com/james-gould/james-gould/tree/main/CodeSnippets).
+
 ## 🏆 Some notable achievements
 
 - Created an IoT ingestion platform capable of over 1b (billion with a b!) binary data packet requests per day.
@@ -20,7 +22,6 @@ A few past and current projects/work include:
 
 - I'm a lifelong Honda enthusiast, currently driving a Civic Type R FK8 in Polished Metal Metallic.
 - I've got 3 British Shorthair cats that live with my partner and I.
-- I've got ADHD! 
  
 ## ✉️ Getting in touch
 
