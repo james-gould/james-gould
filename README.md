@@ -21,7 +21,7 @@ This repository also serves as a store for my [Visual Studio Snippets](https://g
 ## 💖 Personal life
 
 - I'm a lifelong Honda enthusiast, currently driving a Civic Type R FK8 in Polished Metal Metallic.
-- I've got 3 British Shorthair cats that live with my partner and I.
+- I've got 3 British Shorthair cats that live with my fiancé and I.
  
 ## ✉️ Getting in touch
 
