@@ -67,7 +67,7 @@ public string | { get; set; } = string.Empty;
 
 ### jp - JsonPropertyName
 
-Creates an attribute from the `System.Text.Json` for a serializable property.
+Creates an attribute from the `System.Text.Json` namespace for a serializable property.
 
 ```cs
 [JsonPropertyName("|")]
