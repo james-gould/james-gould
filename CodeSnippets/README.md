@@ -47,7 +47,7 @@ public void MyFunction(MyCustomClass className)
 
 ### sn - IfStringIsNullOrEmpty
 
-Create a conditional block based on a string, appending a new line with an indent.
+Creates a conditional block based on a string, appending a new line with an indent.
 
 ```cs
 public void MyFunction(string name)
