@@ -1,6 +1,6 @@
 ## 👋 Welcome!
 
-I'm a Principal .NET Engineer working in financial services with a focus on brownfield modernisation and Azure migrations.
+ I'm a Principal .NET Engineer working on distributed, high throughput Azure native applications in financial services. 
 
 A few past and current projects/work include:
 
