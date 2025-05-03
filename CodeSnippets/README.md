@@ -57,16 +57,6 @@ public void MyFunction(string name)
 }
 ```
 
-This can also be used with a bang `!` operator, typed before the snippet, for the inverse behaviour:
-
-```cs
-public void MyFunction(string name)
-{
-    !if(string.IsNullOrEmpty(name))
-        |
-}
-```
-
 ### st - DefaultedString
 
 Creates a `string` property with a default value.
