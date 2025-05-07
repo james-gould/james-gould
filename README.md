@@ -9,11 +9,6 @@ A few past and current projects/work include:
 - 99RON, a simple web tool helping you find premium fuel in the UK; currently under development.
 
 This repository also serves as a store for my [Visual Studio Snippets](https://github.com/james-gould/james-gould/tree/main/CodeSnippets).
-
-## 💖 Personal life
-
-- I'm a lifelong Honda enthusiast, currently driving a Civic Type R FK8 in Polished Metal Metallic.
-- I've got 3 British Shorthair cats that live with my fiancé and I.
  
 ## ✉️ Getting in touch
 
