@@ -2,15 +2,14 @@
 <CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
   <CodeSnippet Format="1.0.0">
     <Header>
-      <Title>IfStringIsNullOrEmpty</Title>
-      <Shortcut>sn</Shortcut>
+      <Title>JsonIgnoreCondition</Title>
+      <Shortcut>ji</Shortcut>
       <Author>James Gould</Author>
-      <Description>Creates a conditional string.IsNullOrEmpty block.</Description>
+      <Description>Adds a JsonIgnore attribute, prompting for the condition.</Description>
     </Header>
     <Snippet>
       <Code Language="CSharp">
-        <![CDATA[if(string.IsNullOrEmpty($Name$))
-              $end$]]>
+        <![CDATA[ [JsonIgnore(Condition = JsonIgnoreCondition.$Name$)] $end$]]>
       </Code>
       <Declarations>
         <Literal>
@@ -18,6 +17,11 @@
             <Default></Default>
         </Literal>
       </Declarations>
+      <Imports>
+        <Import>
+          <Namespace>System.Text.Json.Serialization</Namespace>
+        </Import>
+      </Imports>
     </Snippet>
   </CodeSnippet>
 </CodeSnippets>
