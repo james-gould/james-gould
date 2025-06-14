@@ -2,25 +2,24 @@
 <CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
   <CodeSnippet Format="1.0.0">
     <Header>
-      <Title>JsonPropertyName</Title>
-      <Shortcut>jp</Shortcut>
+      <Title>Defaulted String</Title>
+      <Shortcut>st</Shortcut>
       <Author>James Gould</Author>
-      <Description>Autofills the [JsonPropertyName("")] attribute, prompting for the JSON property
-        name before completing.</Description>
+      <Description>Creates a string property with a defaulted value of string.Empty</Description>
     </Header>
     <Snippet>
       <Code Language="CSharp">
-        <![CDATA[[JsonPropertyName("$Name$")]$end$]]>
+        <![CDATA[public required string $Name$ { get; set; }$end$]]>
       </Code>
       <Declarations>
         <Literal>
           <ID>Name</ID>
-          <Default>propertyName</Default>
+          <Default></Default>
         </Literal>
       </Declarations>
       <Imports>
         <Import>
-          <Namespace>System.Text.Json.Serialization</Namespace>
+          <Namespace></Namespace>
         </Import>
       </Imports>
     </Snippet>
