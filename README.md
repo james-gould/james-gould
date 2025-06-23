@@ -7,6 +7,7 @@ A few past and current projects/work include:
 - [Azure Key Vault Emulator](https://github.com/james-gould/azure-keyvault-emulator)
 - [Personal blog focusing on .NET development](https://jamesgould.dev)
 - 99RON, a simple web tool helping you find premium fuel in the UK; currently under development.
+- [DomainAlert.io](https://DomainAlert.io), a tool for monitoring domain changes at scale. Complete with a WHOIS API.
 
 This repository also serves as a store for my [Visual Studio Snippets](https://github.com/james-gould/james-gould/tree/main/CodeSnippets).
  
