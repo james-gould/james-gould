@@ -21,7 +21,7 @@ Below is a list and explaination of the snippets I've created. The title is form
 
 Once imported press the keys in the `shortcut` section and press `TAB` twice to autofill the contents of the `snippet name`.
 
-### ar - ArgumentExceptionNullEmpty.snippet 
+### ar - ArgumentExceptionNullEmpty
 
 Validates a string, appending a new line to the bottom.
 
