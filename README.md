@@ -1,6 +1,6 @@
 ## 👋 Welcome!
 
- I'm a Principal .NET Engineer working in financial services, member of the .NET Foundation, an open source maintainer, lifelong Honda enthusiast and have 3 British Shorthairs. 
+ I'm a Principal .NET Engineer working in finance, member of the .NET Foundation, an open source maintainer, lifelong Honda enthusiast and have 3 British Shorthairs. 
 
 A few past and current projects/work include:
 
